@@ -28,15 +28,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👋 Hi, I’m @Tumi Mashigo
 
-- 💞️ I’m looking for help with open source projects, hackathons, internships,entry-level, and junior developer opportunities.
+- 💞️ I’m looking for help with junior developer opportunities.
 
 - :telescope: I would like to work as a Software Engineer and contribute to frontend and backend for building applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- 🌱 I’m currently learning C# and Javascript
+- 🌱 I’m currently learning React.js
 
-- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+- :zap: In my free time, I solve problems on CodeWars and develop personal projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tumi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tumi-mashigo-9b183614a/)
 
