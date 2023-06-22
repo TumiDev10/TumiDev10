@@ -28,13 +28,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👋 Hi, I’m @Tumi Mashigo
 
-- 💞️ I’m looking for help with junior developer opportunities.
+- 💞️ I’m looking for junior developer job opportunities.
 
 - :telescope: I would like to work as a Software Engineer and contribute to frontend and backend for building applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React Native
 
 - :zap: In my free time, I solve problems on CodeWars and develop personal projects.
 
